@@ -1,4 +1,4 @@
-void incluiFinal(no *lista, int data){
+	void incluiFinal(no *lista, int data){
 		
 	no p = (no) malloc(sizeof(struct reg));
 	p->data = data;
@@ -14,4 +14,4 @@ void incluiFinal(no *lista, int data){
 	q->link = p;
 	}
 
-}
+	}
