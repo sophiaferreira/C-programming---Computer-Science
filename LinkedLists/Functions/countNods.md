@@ -1,4 +1,4 @@
-void contaNos(no lista){
+	void contaNos(no lista){
 	
 	int count = 0;
 	
@@ -14,10 +14,11 @@ void contaNos(no lista){
 	
 	printf("\nQuantidade de nos: %d\n",count);
 	
-} 
-or 
+	} 
+ 
+	--------or---------- 
 
-int contaNos(no lista){
+    int contaNos(no lista){
 	
     int count = 0;
 	
@@ -33,4 +34,4 @@ int contaNos(no lista){
 	
 	return count;
 	
-}
+    }
