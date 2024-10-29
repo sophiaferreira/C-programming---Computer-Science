@@ -8,10 +8,9 @@
 	*lista = p;
 	
 	else{
-		no q = *lista;
-		while(q->link)
-		q = q->link;
+	no q = *lista;
+	   while(q->link)
+	   q = q->link;
 	q->link = p;
 	}
-
 	}
