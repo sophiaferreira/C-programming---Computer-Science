@@ -1,4 +1,4 @@
-void mostraLista(no lista) {
+    void mostraLista(no lista) {
     no p = lista;
     printf("\nElementos da lista: ");
     while (p) {
@@ -6,4 +6,4 @@ void mostraLista(no lista) {
         p = p->link;
     }
     printf("NULL\n");
-}
+    }
