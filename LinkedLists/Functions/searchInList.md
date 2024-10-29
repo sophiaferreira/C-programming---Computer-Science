@@ -1,4 +1,4 @@
-int buscaLista(no lista, int pesquisa){
+	int buscaLista(no lista, int pesquisa){
 
 	no p = lista;
 	
@@ -11,4 +11,4 @@ int buscaLista(no lista, int pesquisa){
 	
 	return 0;
 	
-}
+	}
