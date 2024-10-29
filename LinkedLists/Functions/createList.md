@@ -1,3 +1,3 @@
-void criaLista(no *lista) {
-    *lista = NULL;
-}
+      void criaLista(no *lista) {
+       *lista = NULL;
+    }
