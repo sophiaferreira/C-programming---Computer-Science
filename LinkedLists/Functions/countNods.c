@@ -12,12 +12,12 @@
 	printf("\nQuantidade de nos: %d\n",count);
 	} 
  
-	--------or---------- 
+	//--------or---------- 
 
-    int contaNos(no lista){
+    	int contaNos(no lista){
 	
-    int count = 0;
-    no p = lista;
+   	int count = 0;
+   	no p = lista;
 	
 	if(p == NULL) 
 	printf("A lista esta vazia!");
